@@ -13,3 +13,8 @@
  - Run `private-contract.js` that deploys our Smart Contract on node1. It contains abi and bytecode of our smart contract.
  - Run command `loadScript('/examples/private-contract.js')`
  - This will return the transaction hash and the Contract address of the deployed contract, which is used to call the functions of the contract just deployed.
+
+
+**Output**
+![Screenshot from 2023-03-30 13-16-47](https://user-images.githubusercontent.com/62202202/229126224-7ef6a487-9a53-4c2f-89c6-8f062aecb278.png)
+![Screenshot from 2023-03-30 13-18-03](https://user-images.githubusercontent.com/62202202/229126243-d96f71b1-0378-4850-b40f-5ff1ebac9bfb.png)
