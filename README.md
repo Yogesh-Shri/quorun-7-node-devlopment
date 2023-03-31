@@ -1,4 +1,15 @@
-# quorun-7-node-devlopment
+# Quorum-7-node-devlopment
+### Smart Contract ###
+- This Smart Contract implements a subscription service, which allows users to subscribe to a service by paying a subscription fee, and then check their subscription status and renew or cancel their subscription as needed.
+#### It contain following functions ####
+- **subscribe()**
+- **unsubscribe()**
+- **transferSubscription()**
+- **renewSubscription()**
+- **checkSubscriptionStatus()**
+- **getTotalSubscribers()**
+
+
 ### Step 1: Quorum nodes setup
 - Clone the github repo [quorum 7 nodes](https://github.com/jpmorganchase/quorum-examples.git)
 - Go to quorum-example folder using `cd quorum-examples`
